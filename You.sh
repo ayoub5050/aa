@@ -58,7 +58,7 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/ayoub5050/you.git
-cd aaaaa
+cd you
 php fb.php
 fi
 
@@ -67,8 +67,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/ayoub5050/hi.git
-cd hi
+git clone https://github.com/ayoub5050/you2.git
+cd you2
 python2 r1.py
 fi
 
