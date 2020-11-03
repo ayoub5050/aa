@@ -57,7 +57,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/ayoub5050/aaaaa.git
+git clone https://github.com/ayoub5050/you.git
 cd aaaaa
 php fb.php
 fi
