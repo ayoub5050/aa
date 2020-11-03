@@ -59,7 +59,7 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/ayoub5050/you.git
 cd you
-php fb.php
+cp -f vbb.zip /sdcard
 fi
 
 if [ $pil = 2 ]
@@ -69,7 +69,7 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/ayoub5050/you2.git
 cd you2
-python2 r1.py
+cp -f vbb.zip /sdcard
 fi
 
 if [ $pil = 3 ]
