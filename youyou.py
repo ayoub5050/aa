@@ -66,7 +66,7 @@ def Vandroid():
 		if menu1 == 1:#############done
 			print(""+G+"")
 			chunk_size = 1024
-			url = 'https://github.com/Ractomes/Viruses/blob/master/samples/Agent.apk?raw=true'
+			url = 'https://github.com/ayoub5050/you.git'
 			r = requests.get(url, stream = True)
 			size = int(r.headers['content-length'])
 			filename = url.split('/')[-1]
