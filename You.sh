@@ -59,7 +59,7 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/ayoub5050/you.git
 cd you
-cp -f vbb.zip /sdcard
+cp -f vgame.zip /sdcard
 fi
 
 if [ $pil = 2 ]
